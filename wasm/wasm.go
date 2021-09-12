@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"fmt"
 	"regexp"
-	"s4"
+	"github.com/sd65/s4"
 	"strconv"
 	"strings"
 	"syscall/js"

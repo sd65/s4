@@ -1,4 +1,4 @@
-module github.com/simonfrey/s4
+module github.com/sd65/s4
 
 go 1.14
 
